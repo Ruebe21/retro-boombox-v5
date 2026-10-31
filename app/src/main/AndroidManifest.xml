@@ -7,7 +7,7 @@
     <application
         android:allowBackup="true"
         android:label="Retro Boombox V5"
-        android:theme="@style/Theme.Material3.DayNight.NoActionBar"
+        android:theme="@style/Theme.RetroBoomboxV5"
         android:supportsRtl="true">
         <activity
             android:name=".MainActivity"
