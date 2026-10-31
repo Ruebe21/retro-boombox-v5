@@ -29,3 +29,5 @@ jobs:
           path: app/build/outputs/apk/debug/app-debug.apk
           name: retro-boombox-v5-debug-apk
           path: app/build/outputs/apk/debug/app-debug.apk
+          name: retro-boombox-v5-debug-apk
+          path: app/build/outputs/apk/debug/app-debug.apk
